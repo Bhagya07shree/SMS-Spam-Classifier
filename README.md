@@ -8,6 +8,7 @@ Users can input any SMS message, and the model predicts whether it is spam along
 <div align="center">
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sms-spam-classifier-q22umx4nys3aq7zicrwkn2.streamlit.app)
+[![Dataset](https://img.shields.io/badge/Dataset-blue)](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 [![Accuracy](https://img.shields.io/badge/Accuracy-97.7%25-brightgreen)](https://github.com/Bhagya07shree/SMS-Spam-Classifier)
 [![Precision](https://img.shields.io/badge/Precision-99%25-blue)](https://github.com/Bhagya07shree/SMS-Spam-Classifier)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)

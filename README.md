@@ -21,7 +21,7 @@ Users can input any SMS message, and the model predicts whether it is spam along
 ## **Project Structure**
 
 
-SMS-Spam-Classifier/
+SMS-Spam-Classifier/<br>
 │
 ├─ app.py # Streamlit app<br>
 ├─ model.pkl # Trained ML model<br>

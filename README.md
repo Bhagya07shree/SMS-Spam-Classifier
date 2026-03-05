@@ -23,12 +23,12 @@ Users can input any SMS message, and the model predicts whether it is spam along
 
 SMS-Spam-Classifier/
 │
-├─ app.py # Streamlit app
-├─ model.pkl # Trained ML model
-├─ vectorizer.pkl # TF-IDF vectorizer
-├─ requirements.txt # Project dependencies
-├─ sms_spam_detection.ipynb # Model training notebook
-├─ dataset/ # Raw SMS dataset
+├─ app.py # Streamlit app<br>
+├─ model.pkl # Trained ML model<br>
+├─ vectorizer.pkl # TF-IDF vectorizer<br>
+├─ requirements.txt # Project dependencies<br>
+├─ sms_spam_detection.ipynb # Model training notebook<br>
+├─ dataset/ # Raw SMS dataset<br>
 └─ .gitignore
 
 

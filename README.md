@@ -1,4 +1,4 @@
-# SMS Spam Classifier
+# **SMS Spam Classifier**
 
 A **machine learning web app** built with **Python and Streamlit** to classify SMS messages as **Spam** or **Not Spam (Ham)**.  
 Users can input any SMS message, and the model predicts whether it is spam along with a confidence score.
@@ -10,7 +10,7 @@ Users can input any SMS message, and the model predicts whether it is spam along
 
 ---
 
-## ** Features**
+## **Features**
 - Classifies SMS messages into **Spam** or **Not Spam**.  
 - Shows the **spam probability** for more insight.  
 - Handles both **short and long messages**.  
@@ -18,7 +18,7 @@ Users can input any SMS message, and the model predicts whether it is spam along
 
 ---
 
-## ** Project Structure**
+## **Project Structure**
 
 SMS-Spam-Classifier/
 │
@@ -32,7 +32,7 @@ SMS-Spam-Classifier/
 
 ---
 
-## ** Model Training**
+## **Model Training**
 - Dataset: Public SMS Spam Collection  
 - Preprocessing:
   - Lowercasing text  
@@ -50,7 +50,7 @@ Even though the independence assumption is not strictly true for text, Naive Bay
 
 ---
 
-## **⚙️ Deployment on Streamlit Cloud**
+## **⚙️Deployment on Streamlit Cloud**
 **Steps:**
 1. Push the project to GitHub (excluding `venv/`)  
 2. Make sure `.pkl` files and `requirements.txt` are included  
@@ -68,7 +68,7 @@ Even though the independence assumption is not strictly true for text, Naive Bay
 
 ---
 
-## ** Example Messages**
+## **Example Messages**
 | Message | Prediction | Probability |
 |---------|-----------|------------|
 | "Congratulations! 🎉 You have been specially selected for a $5000 Amazon gift card! Click http://bit.ly/claim-amazon5000" | Spam | 94.9% |
@@ -76,12 +76,14 @@ Even though the independence assumption is not strictly true for text, Naive Bay
 
 ---
 
-## 🖼️ Demo: Model Predictions
+## **Demo: Model Predictions**
+1.<img width="1898" height="1008" alt="Screenshot 2026-03-05 163229" src="https://github.com/user-attachments/assets/9d50d594-0dc2-4127-97f1-05e4f6ddbce1" />
+2.<img width="1898" height="1008" alt="Screenshot 2026-03-05 163229" src="https://github.com/user-attachments/assets/233e521e-e0b2-43ff-9a43-dec626aacdd0" />
 
 ---
 
-## ** How to Run Locally**
-1. Clone the repo:
+## **How to Run Locally**
 
-bash : git clone https://github.com/Bhagya07shree/SMS-Spam-Classifier.git
+- Clone the repo:
+ bash :git clone https://github.com/Bhagya07shree/SMS-Spam-Classifier.git
  --- 

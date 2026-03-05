@@ -20,6 +20,7 @@ Users can input any SMS message, and the model predicts whether it is spam along
 
 ## **Project Structure**
 
+
 SMS-Spam-Classifier/
 │
 ├─ app.py # Streamlit app
@@ -29,6 +30,7 @@ SMS-Spam-Classifier/
 ├─ sms_spam_detection.ipynb # Model training notebook
 ├─ dataset/ # Raw SMS dataset
 └─ .gitignore
+
 
 ---
 
@@ -44,7 +46,7 @@ SMS-Spam-Classifier/
   - Precision (Spam): ~99%  
   - Recall (Spam): ~82%
 
-  ---
+---
   **Why Naive Bayes works:**  
 Even though the independence assumption is not strictly true for text, Naive Bayes still performs well because it captures word frequencies effectively.
 

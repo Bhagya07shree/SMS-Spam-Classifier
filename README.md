@@ -102,3 +102,11 @@ Even though the independence assumption is not strictly true for text, Naive Bay
 - Clone the repo:
  bash :git clone https://github.com/Bhagya07shree/SMS-Spam-Classifier.git
  --- 
+
+## **Future Improvements**
+
+- Multi-language SMS support
+
+- Private server deployment
+
+- Logging and analytics

@@ -5,13 +5,16 @@ Users can input any SMS message, and the model predicts whether it is spam along
 
 ---
 
-# SMS Spam Classifier
+<div align="center">
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
-![Streamlit](https://img.shields.io/badge/streamlit-deployed-success)
-![License](https://img.shields.io/badge/license-MIT-green)
-![GitHub Repo stars](https://img.shields.io/github/stars/Bhagya07shree/SMS-Spam-Classifier?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Bhagya07shree/SMS-Spam-Classifier)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_URL)
+[![Accuracy](https://img.shields.io/badge/Accuracy-97.7%25-brightgreen)](https://github.com/Bhagya07shree/SMS-Spam-Classifier)
+[![Precision](https://img.shields.io/badge/Precision-99%25-blue)](https://github.com/Bhagya07shree/SMS-Spam-Classifier)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+
+</div>
+
 
 ---
 
